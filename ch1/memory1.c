@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Malloc Sample Program
+
 int main() 
 {
 
-    // This pointer will hold the 
-    // base address of the block created
     int n, i;
 
     n = 5;
